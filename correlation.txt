@@ -1,0 +1,27 @@
+VIF:In statistics, the variance inflation factor (VIF) is the ratio of variance in a model with multiple terms, 
+    divided by the variance of a model with one term alone. It quantifies the severity of multicollinearity 
+   in an ordinary least squares regression analysis. It provides an index that measures how much the variance 
+  (the square of the estimate's standard deviation) of an estimated regression coefficient is increased
+   because of collinearity. 
+
+Collinearity Diagnostics 
+
+When a regressor is nearly a linear combination of other regressors in the model, the affected estimates are unstable 
+and have high standard errors. This problem is called collinearity or multicollinearity. It is a good idea to find 
+out which variables are nearly collinear with which other variables.
+
+Spearman Ranking of the Data
+Principle Component analysis
+
+What is Correlation?
+Variables within a dataset can be related for lots of reasons.
+For example:
+One variable could cause or depend on the values of another variable.
+One variable could be lightly associated with another variable.
+Two variables could depend on a third unknown variable.
+It can be useful in data analysis and modeling to better understand the relationships between variables. The statistical relationship between two variables is referred to as their correlation.
+A correlation could be positive, meaning both variables move in the same direction, or negative, meaning that when one variable’s value increases, the other variables’ values decrease. Correlation can also be neural or zero, meaning that the variables are unrelated.
+Positive Correlation: both variables change in the same direction.
+Neutral Correlation: No relationship in the change of the variables.
+Negative Correlation: variables change in opposite directions.
+
